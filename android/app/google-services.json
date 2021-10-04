@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201687686637",
+    "project_id": "testing-msg-475f8",
+    "storage_bucket": "testing-msg-475f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201687686637:android:d5262eac03517580335be4",
+        "android_client_info": {
+          "package_name": "com.example.hello_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201687686637-5jaq4lopf9k40brd0ml67m3qmtp43isv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhWGJpltOgtfFae4VObUGmTxpDc-prfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201687686637-5jaq4lopf9k40brd0ml67m3qmtp43isv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
